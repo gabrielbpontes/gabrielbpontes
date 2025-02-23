@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Gabriel Batista</h1>
+<h1 align="center">Oi 👋, Eu sou Gabriel Pontes</h1>
 <h3 align="center">Estudante de Ciência de Dados na Universidade Federal da Paraíba</h3>
 
 <h3 align="left">Connect with me:</h3>
