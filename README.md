@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Gabriel Pontes
 
-- 👨🏽‍🎓 I’m a Data Science for Business undergraduate, at the Federal University of Paraíba
+- 👨🏽‍🎓 I’m a Data Science undergraduate, at the Federal University of Paraíba
 - 💻 I’m studying Python, SQL and Java language
 - 📊 I’m a Business Intelligence, Business Analytics, Machine Learning and Artificial Intelligence enthusiast!
 
@@ -11,7 +11,8 @@
 <div>
 <a href="https://github.com/gabrielbpontes">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbpontes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbpontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading
+="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbpontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contatos:
