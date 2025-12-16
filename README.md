@@ -1,22 +1,55 @@
-### Hi there 👋, I'm Gabriel Pontes
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#00deea&height=120&section=header"/>
 
-- 👨🏽‍🎓 I’m a Data Science undergraduate, at the Federal University of Paraíba
-- 💻 I’m studying Python, SQL and Java language
-- 📊 I’m a Business Intelligence, Business Analytics, Machine Learning and Artificial Intelligence enthusiast!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff6e96&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Pontes;I'm+20+years+old;I'm+from+Brazil;I+Undergratuate+Data+Science+for+Business;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-## Technologies and Tools
+- 👨🏽‍🎓 I'm a Data Science for Business undergraduate, at the Federal University of Paraíba, Brazil.
+- 👔  I am a Data Science Intern at Dataprev, the Company of Technology and Information for Social Security of Brazil. 
+- 💻 I’m currently working on a oficial project to build a data warehouse and data visualization webplatform for the Ministry of Racial Equality of the Brazilian Federal Government.
+- 🎯 I'm a Artificial Inteligence and Business Intelligence enthusiast.
+- 📚 I’m currently learning Natural Language Processing, Machine Learning, Artificial Inteligence, Big Data and Data Engeneering...
+- 🔭 I’m looking to collaborate on more Artificial Intelligence Projects.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width = "100" height = "100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width = "100" height = "100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width = "100" height = "100" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "100" height = "100" />
+## **Experiencies**
 
-<div>
-<a href="https://github.com/gabrielbpontes">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielbpontes&layout=compact&langs_count=7&theme=dracula"/>
-<img loading
-="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielbpontes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[<img align="left" height="94px" width="94px" alt="Dataprev" src="https://congeps.inss.gov.br/wp-content/uploads/2022/10/Dataprev.png"/>](https://www.dataprev.gov.br/)
+
+**Data Science Intern** \
+[**Dataprev**](https://www.dataprev.gov.br/) • Internship \
+Languages & Technologies: `Python`, `Cloud Computing`, `Big Data`, `Natural Language Processing`, `Machine Learning`,`Oracle`\
+Projects: [NAVI](https://www.dataprev.gov.br/), [EmpregAI](https://www.dataprev.gov.br/)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
+
+**Data Scientist and Researcher** \
+[**LEMA**](https://lema.ufpb.br/) \
+Languages & Technologies: `Python`, `Data Engeneering`, `Data Science`, `Docker`, `MongoDB` \
+Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
+<br/>
+
+## **Stats**
+
+![Gabriel Pontes GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielbpontes&show_icons=true&theme=dracula&count_private=true)
+
+## **Skills**
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="Gabriel-Spark" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />       
+  <img align="center" alt="Gabriel-Mongo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>
+  <img align="center" alt="Gabriel-docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Gabriel-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
+  <img align="center" alt="Gabriel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"/>
+  <img align="center" alt="Gabriel-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+  <img align="center" alt="Gabriel-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
+  <img align="center" alt="Gabriel-oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"/>
 </div>
 
-## Contatos:
+##
 
 <div>
-  <a href="https://www.instagram.com/gabrielbtpontes/?next=%2F” target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/gabriel-pontes-2152a9276" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://instagram.com/gabrielbtpontes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://gitlab.com/pedrohmv77" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:gabriel91pontes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielpontes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
