@@ -16,7 +16,7 @@
 **Data Science Intern** \
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship \
 Languages & Technologies: `Python`, `Cloud Computing`, `Big Data`, `Natural Language Processing`, `Machine Learning`,`Oracle`\
-Projects: [NAVI](https://www.dataprev.gov.br/), [EmpregAI](https://www.dataprev.gov.br/)
+Projects:[EmpregAI](https://www.dataprev.gov.br/)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
@@ -24,7 +24,7 @@ Projects: [NAVI](https://www.dataprev.gov.br/), [EmpregAI](https://www.dataprev.
 **Data Scientist and Researcher** \
 [**LEMA**](https://lema.ufpb.br/) \
 Languages & Technologies: `Python`, `Data Engeneering`, `Data Science`, `Docker`, `MongoDB` \
-Projects: [SAEGO](https://lema.ufpb.br/saego/), [Preço da Hora](https://precodahora.tcepb.tc.br/)
+Projects: [Plataforma ODS Racial](https://ods.igualdaderacial.gov.br)
 <br/>
 
 ## **Stats**
