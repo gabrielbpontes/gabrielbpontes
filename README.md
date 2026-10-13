@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00deea&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00deea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Pontes;I'm+20+years+old;I'm+from+Brazil;I+Undergratuate+Data+Science+for+Business;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00deea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Pontes;I'm+22+years+old;I'm+from+Brazil;I+Undergratuate+Data+Science+for+Business;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 👨🏽‍🎓 I'm an undergraduate student in Data Science for Business at the Federal University of Paraíba (UFPB), Brazil.
 - 👔 I'm currently a Data Science Intern at Petlove, working with the Supply Chain and Operations team.
