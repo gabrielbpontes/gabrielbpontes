@@ -11,12 +11,20 @@
 
 ## **Experiencies**
 
+[<img align="left" height="94px" width="94px" alt="Petlove" src="https://www.petlove.com.br/static/uploads/banner_image/image/44490/petlove_logo.png"/>](https://www.petlove.com.br/)
+
+**Data Science Intern** 
+[**Petlove**](https://www.petlove.com.br/) • Internship 
+Area: `Supply Chain` 
+Languages & Technologies: `Python`, `SQL`, `BigQuery`, `Airflow`, `Docker`, `Google Cloud` 
+<br/>
+
 [<img align="left" height="94px" width="94px" alt="Dataprev" src="https://congeps.inss.gov.br/wp-content/uploads/2022/10/Dataprev.png"/>](https://www.dataprev.gov.br/)
 
 **Data Science Intern** \
 [**Dataprev**](https://www.dataprev.gov.br/) • Internship \
 Languages & Technologies: `Python`, `Cloud Computing`, `Big Data`, `Natural Language Processing`, `Machine Learning`,`Oracle`\
-Projects:[EmpregAI](https://www.dataprev.gov.br/)
+Projects: [EmpregAI](https://www.dataprev.gov.br/)
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="LEMA" src="https://www.ccsa.ufpb.br/lema/wp-content/uploads/sites/179/sites/180/2024/05/cropped-logo-lema.png"/>](https://lema.ufpb.br/)
