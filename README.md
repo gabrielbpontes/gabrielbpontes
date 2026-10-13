@@ -2,22 +2,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00deea&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Pontes;I'm+20+years+old;I'm+from+Brazil;I+Undergratuate+Data+Science+for+Business;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 👨🏽‍🎓 I'm a Data Science for Business undergraduate, at the Federal University of Paraíba, Brazil.
-- 👔  I am a Data Science Intern at Dataprev, the Company of Technology and Information for Social Security of Brazil. 
-- 💻 I’m currently working on a oficial project to build a data warehouse and data visualization webplatform for the Ministry of Racial Equality of the Brazilian Federal Government.
-- 🎯 I'm a Artificial Inteligence and Business Intelligence enthusiast.
-- 📚 I’m currently learning Natural Language Processing, Machine Learning, Artificial Inteligence, Big Data and Data Engeneering...
-- 🔭 I’m looking to collaborate on more Artificial Intelligence Projects.
+- 👨🏽‍🎓 I'm an undergraduate student in Data Science for Business at the Federal University of Paraíba (UFPB), Brazil.
+- 👔 I'm currently a Data Science Intern at Petlove, working with the Supply Chain and Operations team.
+- 💻 I have previous experience as a Data Science Intern at Dataprev, contributing to data and AI initiatives, as well as experience in data science and research at LEMA/UFPB.
+- 🎯 I'm passionate about Data Science, Machine Learning, and Artificial Intelligence, with an interest in solving real-world business problems through data.
+- 📚 I'm continuously learning and developing my skills in Data Science, Machine Learning, Statistic, Data Engineering, Big Data, and AI.
+- 🔭 I'm looking to collaborate on projects involving Data Science, Machine Learning, and Artificial Intelligence.
 
 ## **Experiencies**
 
 [<img align="left" height="94px" width="94px" alt="Petlove" src="https://www.petlove.com.br/static/uploads/banner_image/image/44490/petlove_logo.png"/>](https://www.petlove.com.br/)
 
-**Data Science Intern** 
-[**Petlove**](https://www.petlove.com.br/) • Internship 
-Area: `Supply Chain` 
-Languages & Technologies: `Python`, `SQL`, `BigQuery`, `Airflow`, `Docker`, `Google Cloud` 
-<br/>
+**Data Science Intern** <br/>
+[**Petlove**](https://www.petlove.com.br/) • Internship <br/>
+Area: `Supply Chain` <br/>
+Languages & Technologies: `Python`, `SQL`, `BigQuery`, `Airflow`, `Docker`, `Google Cloud`
+<br clear="left"/>
 
 [<img align="left" height="94px" width="94px" alt="Dataprev" src="https://congeps.inss.gov.br/wp-content/uploads/2022/10/Dataprev.png"/>](https://www.dataprev.gov.br/)
 
